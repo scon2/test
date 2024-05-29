@@ -1,0 +1,40 @@
+POST http://127.0.0.1:8000/load-data/
+Content-Type: application/json
+
+{
+  "name": "베네파스타하우스",
+  "location": "대전 유성구 어은동 112-13 카이스트 쪽문 옆 / 한빛교회옆",
+  "time": "영업시간 11:00-20:30 / 토요일 정기휴무",
+  "tags": [
+    "#대전맛집",
+    "#대전맛집추천",
+    "#어은동맛집",
+    "#대전가성비맛집",
+    "#대전양식"
+  ],
+  "description": "대전의 자랑 카이스트 근처에 있는 양식집인데 가격이?,, 카이스트 근처에 있는 작은 양식집인데기격부터 맛까지 너무 만족스러웠음학교 다닐 때 유성 홈플러스에서 꽤 오래 알바를 해서어은동을 자주 갔는데 내가 알바 했을 때 이렇게 가성비 좋은 가게가 있었다면진짜 자주 갔을 듯혼밥 하기도 좋고 부담스럽지 않은 가격에 친구들과 여러 양식 메뉴를 먹을 수 있어서 좋을 듯그리고 가게 컨셉이 식물원 느낌이라 이것도 매력있었음울집 앞에 있었다면 하루 일과 마무리 후 감바스에 맥주 한잔 했을 텐데,, 아쉽어은동 갈 일 있다면 한번 들려보시길! 사장님도 친절해서기분 좋게 밥 먹고 올 수 있음",
+  "category": "맛집",
+  "isVideo": true,
+  "likes": 1172,
+  "like_ratio": 0.576,
+  "img_url": "http://scontent.cdninstagram.com/v/t51.29350-15/446332495_998165278323919_440599611606311590_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTU2eDIwNTAuc2RyLmYyOTM1MCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_ohc=mQpUXYlg1MUQ7kNvgHt7cqb&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzM3NjQwNzU2MTgwNDIwMDIyOA%3D%3D.2-ccb7-5&oh=00_AYCT38I39awIHriDyLEpqWNxR5M6-jxq4eHtI4CLQXIlZA&oe=665805D9&_nc_sid=10d13b"
+},
+{
+"name": "명지제과",
+"location": "대전 서구 정림로 24번길 30",
+"time": "영업시간 09:00~21:00 / 월/화 정기휴무",
+"tags": [
+"#대전맛집",
+"#대전빵집추천",
+"#대전빵집",
+"#대전디저트",
+"#대전디저트카페",
+"#대전소금빵"
+],
+"description": "유튜브 알고리즘 덕분에 찾은 대전 빵집? 유튜브 보다가 갑자기 내 알고리즘에 떠서 빠르게 다녀온 곳인데어쩌다보니 인스타를 알게 되었고 옥수수파이랑 소금빵을 먹기 위해 다녀왔음결론부터 말하면 맛있음옥수수파이는 제주도 집의기록상점에서 먹어봤는데큰 차이 없이 맛있었고 소금빵도 크고 생크림, 명란 감자 모두 괜찮았음내가 정림동 살았으면 진짜 자주 갔을 거 같음",
+"category": "카페",
+"isVideo": true,
+"likes": 1507,
+"like_ratio": 0.74,
+"img_url": "http://scontent.cdninstagram.com/v/t51.29350-15/446113559_1067202981541378_8060366715150241063_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTY4eDIwNzIuc2RyLmYyOTM1MCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_ohc=G8g4x6SgqD4Q7kNvgHbeg81&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzM3NTA3MzU0MTU2NDg5NjE5NQ%3D%3D.2-ccb7-5&oh=00_AYDAeaozbAl6djrHRf8jNM7uIHkdcwN6I3QaEzcexUfPoA&oe=6657E96D&_nc_sid=10d13b"
+}
